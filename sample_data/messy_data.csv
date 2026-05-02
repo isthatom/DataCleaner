@@ -1,0 +1,12 @@
+Name,Age,City,Salary,Join Date,Department
+Alice,28,München,55000,2023-01-15,Engineering
+Bob,,Berlin,62000,2023-03-22,Marketing
+alice,28,München,55000,2023-01-15,Engineering
+Charlie,35,  Hamburg  ,48000,22-07-2023,engineering
+Dave,27,Frankfurt,,2023-05-10,Sales
+Eve,31,München,71000,2023-06-30,MARKETING
+Frank,abc,Berlin,58000,2023-08-14,Engineering
+Grace,29,Nürnberg,52000,not a date,Sales
+Heidi,33,München,61000,2023-09-05,Engineering
+Ivan,,,,, 
+Jane,26,Berlin,47000,2023-11-20,Marketing
